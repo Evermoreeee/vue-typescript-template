@@ -60,7 +60,7 @@ src
 
 - `npm run unit`: Unit tests run in [JSDOM](https://github.com/tmpvar/jsdom) with [Jest](https://facebook.github.io/jest/), or in PhantomJS with Karma + Mocha + karma-webpack.
   - Supports ES2015+ in test files.
-  - Easy mocking.
+  - Easy mocking
 
 - `npm run e2e`: End-to-end tests with [Nightwatch](http://nightwatchjs.org/).
   - Run tests in multiple browsers in parallel.
